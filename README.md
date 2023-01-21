@@ -1,2 +1,1 @@
-# Color-Rex
-a color trex game.
+# Trex_Color
